@@ -1,1 +1,2 @@
-console.log("Hello template")
+console.log("Hello template");
+document.write("fix");

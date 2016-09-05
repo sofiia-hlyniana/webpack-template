@@ -4,7 +4,8 @@
   "description": "My first test app",
   "main": "index.js",
   "scripts": {
-    "test": "webpack-dev-server"
+    "test": "webpack-dev-server",
+    "dev": "webpack-dev-server --inline --progress"
   },
   "repository": {
     "type": "git",
